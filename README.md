@@ -7,8 +7,9 @@
 ## 📝 ¿Qué puedes encontrar aquí?
 
 📂 **Ejercicios propuestos por el docente, Ing. Martin Albino Ascui**:  
-   - Ejercicios prácticos para reforzar los temas de clase 🛠️.  
-   - Soluciones detalladas.  
+   - Ejercicios prácticos para reforzar los temas de clase.  
+   - Soluciones detalladas.
+   - Ejercicios propuestos.
 
 📂 **Material organizado en carpetas por tema**:  
    - Todo lo necesario para ayudarte a comprender **Estructuras de Datos** 🗂️.
@@ -17,9 +18,8 @@
 
 ## 📜 Manual de Uso
 
-1. **Dirígete a la carpeta 📁 "Java"**, donde encontrarás **Todos los ejercicios propuestos** por el Ing. Martin Albino Ascui.  
+1. **Dirígete a la carpeta 📁 "Java_ED"**, donde encontrarás **Todos los ejercicios propuestos** por el Ing. Martin Albino Ascui.  
 2. **Revisa y trabaja** en cada ejercicio para practicar los conceptos vistos en clase 📖.  
-3. **Sigue las soluciones y analiza cada uno** para mejorar tu entendimiento del tema 🔍.
 
 ---
 
