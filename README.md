@@ -1,6 +1,6 @@
 # 💻 Programación III - III Semestre de Informática Industrial 🚀
 
-¡Bienvenidos/as al **repositorio oficial** de **Programación III** hecha por el estudiante **Juan Jose Lizarazu**! 🌟 Este espacio está dedicado a explorar, aprender y aplicar los fascinantes conceptos de **Estructuras de Datos** que estamos viendo este semestre. Prepárate para una experiencia de aprendizaje interactiva y organizada. 🧑‍💻🎓
+¡Bienvenidos/as al **repositorio oficial** de **Programación III** hecha por el estudiante **Juan Jose Lizarazu Quiroga**! 🌟 Este espacio está dedicado a explorar, aprender y aplicar los conceptos de **Estructuras de Datos** que estamos viendo este semestre.
 
 ---
 
@@ -19,14 +19,7 @@
 ## 📜 Manual de Uso
 
 1. **Dirígete a la carpeta 📁 "Java_ED"**, donde encontrarás **Todos los ejercicios propuestos** por el Ing. Martin Albino Ascui.  
-2. **Revisa y trabaja** en cada ejercicio para practicar los conceptos vistos en clase 📖.  
 
 ---
 
-## 💡 ¿Sugerencias, dudas o aportes?
-
-¡Tus comentarios son siempre bienvenidos!
-
----
-
-### 🌟 ¡Gracias por visitar este repositorio y mucho éxito en Programación III! 🌟
+### 🌟 ¡Gracias por visitar este repositorio! 🌟
